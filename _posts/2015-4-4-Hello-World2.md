@@ -4,7 +4,7 @@ layout: post
 title: Second Post...Test....
 ---
 
-site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+blah text
 
 ![_config.yml]({{ site.baseurl }}/images/Downtown-Raleigh-from-Western-Boulevard-Overpass-20081012.jpg)
 
