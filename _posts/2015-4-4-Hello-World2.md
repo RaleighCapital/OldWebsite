@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: First Post! More to come....
+title: Second Post...Test....
 ---
 
 site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
