@@ -13,8 +13,11 @@
 /* BASE RULES */
 /**************/
 
-html {  font-size: 100%;}
-body {  background: white;  font: 18px/1.4 helvetica;  color: darkGray;}
+html {  
+	font-size: 100%;
+}
+
+body {	background: $white;  font: 18px/1.4 $helvetica;  color: $darkGray;}
 .top {  width: 100%;  height: 92px;}
 .left {  width: 20%;  background: red;  float: left;}
 .container {  margin: 0 auto;  max-width: 740px;  padding: 0 10px;  width: 80%;}
