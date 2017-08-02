@@ -13,9 +13,9 @@
 /* BASE RULES */
 /**************/
 html {  font-size: 100%;}
-body {	background-color: red;  font: 18px/1.4 $helvetica;  color: $darkGray;}
+body {	font: 18px/1.4 $helvetica;  color: $darkGray;}
 .container {  margin: 0 auto;  max-width: 740px;  padding: 0 10px;  width: 100%;}
-.left {  width: 20%;  background: $blue;  float: left;}
+.left {  width: 20%;  background-color: red; background: $blue;  float: left;}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
