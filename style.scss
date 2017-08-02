@@ -137,7 +137,7 @@ img {
 // .masthead
 //
 .left { float: left;}
-.top { width: 100%; }
+.top { width: 100%; position:absolute; left:0; right:0; }
 .wrapper-masthead {
   margin-bottom: 50px;
 }
